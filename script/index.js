@@ -1,38 +1,33 @@
 const projects = [
   {
     title: "Kedai Kopi Senja",
-    description:
-      "A responsive website created using JavaScript and Python. This website was created as a form of my achievements while attending lectures in semester 1.",
+    description: `A responsive website created using JavaScript and Python. This website was created as a form of my achievements while attending lectures in semester 1. You can check this project <br> <u><a href="https://github.com/Codenames-Ren/Kedai-Kopi-Senja" target="_blank">Here</a><u>`,
     icon: "fas fa-coffee",
     color: "from-amber-500 to-orange-600",
   },
   {
     title: "Animated Login Form",
-    description:
-      "A login form page created using HTML, CSS, and JavaScript. This login page features animations and combines register and login menus on a single page.",
+    description: `A login form page created using HTML, CSS, and JavaScript. This login page features animations and combines register and login menus on a single page. Check this project <br> <u><a href="https://github.com/Codenames-Ren/Animated-Login-Form" target="_blank">Here</a><u>`,
     icon: "fas fa-sign-in-alt",
     color: "from-blue-500 to-cyan-600",
   },
   {
-    title: "To Do List Program",
-    description:
-      "A program created for practice using Object Oriented Programming principles with Python.",
-    icon: "fas fa-list-check",
+    title: "Umrah Package E-Commerce Web",
+    description: `A program created for Project 1 in my Campus. Using Golang for main language, HTML, CSS, and Javascript for UI design and PostgreeSQL for Databases. <br> Check this project<br><u><a href="https:mukromah-hijrah.ti24se3.my.id" target="_blank">Here</a><u>`,
+    icon: "fa-solid fa-kaaba",
     color: "from-green-500 to-emerald-600",
   },
   {
     title: "ASCII Video Player",
-    description:
-      "A fun program that converts video into ASCII text using Python. The video can be played via Terminal with a unique visual effect.",
+    description: `A fun program that converts video into ASCII text using Python. The video can be played via Terminal with a unique visual effect. <br> Check this project<br><u><a href="https://github.com/Codenames-Ren/Project-Python/tree/main/Gabut" target="_blank">Here</a><u>`,
     icon: "fas fa-play",
     color: "from-purple-500 to-pink-600",
   },
   {
-    title: "Coming Soon",
-    description:
-      "Exciting new projects are in development. Stay tuned for updates!",
-    icon: "fas fa-clock",
-    color: "from-gray-500 to-slate-600",
+    title: "Internal Billing System for RT/RW NET Wifi",
+    description: `Internal Billing System for Wifi RT/RW NET business. Easy to Use, connect with Mikrotik and run on local network, according to internal needs. Build with Golang for main language and PostgreeSQL for databases.<br> Check this project<br><u><a href="https://github.com/Codenames-Ren/Billing-System" target="_blank">Here</a><u> `,
+    icon: "fa-solid fa-wifi",
+    color: "from-green-500 to-blue-800",
   },
   {
     title: "Future Project",
@@ -46,8 +41,8 @@ const projects = [
 // Typing animation
 const typingTexts = [
   "Web Developer",
-  "Software Developer",
-  "Web Designer",
+  "Software Engineer",
+  "Programmer",
   "College Student",
   "Junior Web Developer",
 ];
