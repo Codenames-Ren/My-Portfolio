@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: "Umrah Package E-Commerce Web",
-    description: `A program created for Project 1 in my Campus. Using Golang for main language, HTML, CSS, and Javascript for UI design and PostgreeSQL for Databases. <br> Check this project<br><u><a href="https:mukromah-hijrah.ti24se3.my.id" target="_blank">Here</a><u>`,
+    description: `A program created for Project 1 in my Campus. Using Golang for main language, HTML, CSS, and Javascript for UI design and PostgreeSQL for Databases. <br> Check this project<br><u><a href="https://mukromah-hijrah.ti24se3.my.id" target="_blank">Here</a><u>`,
     icon: "fa-solid fa-kaaba",
     color: "from-green-500 to-emerald-600",
   },
