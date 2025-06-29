@@ -99,6 +99,11 @@
             >Projects</a
           >
           <a
+            href="#stack"
+            class="nav-link text-white hover:text-primary transition-colors duration-300 border-b-2 border-transparent hover:border-primary pb-1"
+            >Tech Stack</a
+          >
+          <a
             href="#contact"
             class="nav-link text-white hover:text-primary transition-colors duration-300 border-b-2 border-transparent hover:border-primary pb-1"
             >Contact</a
@@ -122,6 +127,11 @@
               href="#projects"
               class="block text-white hover:text-primary transition-colors duration-300 text-lg py-2 px-4 rounded-lg hover:bg-primary/10 border-l-4 border-transparent hover:border-primary"
               >Projects</a
+            >
+            <a
+              href="#stack"
+              class="block text-white hover:text-primary transition-colors duration-300 text-lg py-2 px-4 rounded-lg hover:bg-primary/10 border-l-4 border-transparent hover:border-primary"
+              >Tech Stack</a
             >
             <a
               href="#contact"
@@ -237,10 +247,10 @@
       </section>
 
       <!-- Projects Section -->
-      <section id="projects" class="min-h-screen py-20 px-4 lg:px-8">
+      <section id="projects" class="py-12 lg:py-16 px-4 lg:px-8">
         <div class="container mx-auto">
           <h2
-            class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-16 animate-fade-in"
+            class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 lg:mb-16 animate-fade-in"
           >
             My <span class="text-primary">Projects</span>
           </h2>
@@ -254,14 +264,188 @@
         </div>
       </section>
 
-      <!-- Contact Section -->
-      <section
-        id="contact"
-        class="min-h-screen py-20 px-4 lg:px-8 flex items-center"
-      >
+      <!-- Tech Stack Section -->
+      <section id="stack" class="py-12 lg:py-16 px-4 lg:px-8">
         <div class="container mx-auto">
           <h2
-            class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-16 animate-fade-in"
+            class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 lg:mb-16 animate-fade-in"
+          >
+            Tech <span class="text-primary">Stack</span>
+          </h2>
+
+          <div class="max-w-5xl mx-auto space-y-8">
+            <!-- Backend -->
+            <div
+              class="bg-dark-secondary rounded-3xl p-6 lg:p-8 hover:bg-primary hover:scale-105 transition-all duration-300 group"
+            >
+              <h3
+                class="text-xl lg:text-2xl font-semibold mb-4 text-center text-white group-hover:text-black"
+              >
+                Backend
+              </h3>
+              <div class="flex justify-center items-center space-x-8">
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-golang text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >Golang</span
+                  >
+                </div>
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-node-js text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >Node.js</span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Frontend -->
+            <div
+              class="bg-dark-secondary rounded-3xl p-6 lg:p-8 hover:bg-primary hover:scale-105 transition-all duration-300 group"
+            >
+              <h3
+                class="text-xl lg:text-2xl font-semibold mb-4 text-center text-white group-hover:text-black"
+              >
+                Frontend
+              </h3>
+              <div class="flex justify-center items-center space-x-8">
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-html5 text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >HTML</span
+                  >
+                </div>
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-css3-alt text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >CSS</span
+                  >
+                </div>
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-js-square text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >JavaScript</span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Framework -->
+            <div
+              class="bg-dark-secondary rounded-3xl p-6 lg:p-8 hover:bg-primary hover:scale-105 transition-all duration-300 group"
+            >
+              <h3
+                class="text-xl lg:text-2xl font-semibold mb-4 text-center text-white group-hover:text-black"
+              >
+                Framework
+              </h3>
+              <div class="flex justify-center items-center space-x-8">
+                <div class="flex flex-col items-center">
+                  <div
+                    class="w-12 h-12 lg:w-16 lg:h-16 bg-primary group-hover:bg-black rounded-lg flex items-center justify-center mb-2"
+                  >
+                    <span
+                      class="text-lg lg:text-xl font-bold text-black group-hover:text-primary"
+                      >GIN</span
+                    >
+                  </div>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >GIN</span
+                  >
+                </div>
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-react text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >Next.js</span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Database -->
+            <div
+              class="bg-dark-secondary rounded-3xl p-6 lg:p-8 hover:bg-primary hover:scale-105 transition-all duration-300 group"
+            >
+              <h3
+                class="text-xl lg:text-2xl font-semibold mb-4 text-center text-white group-hover:text-black"
+              >
+                Database
+              </h3>
+              <div class="flex justify-center items-center space-x-8">
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fas fa-database text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >MySQL</span
+                  >
+                </div>
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fas fa-database text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >PostgreSQL</span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Operating System -->
+            <div
+              class="bg-dark-secondary rounded-3xl p-6 lg:p-8 hover:bg-primary hover:scale-105 transition-all duration-300 group"
+            >
+              <h3
+                class="text-xl lg:text-2xl font-semibold mb-4 text-center text-white group-hover:text-black"
+              >
+                Operating System
+              </h3>
+              <div class="flex justify-center items-center">
+                <div class="flex flex-col items-center">
+                  <i
+                    class="fab fa-linux text-4xl lg:text-5xl text-primary group-hover:text-black mb-2"
+                  ></i>
+                  <span
+                    class="text-sm lg:text-base font-medium text-gray-300 group-hover:text-black"
+                    >Arch Linux</span
+                  >
+                  <span
+                    class="text-xs lg:text-sm text-gray-400 group-hover:text-gray-600"
+                    >(EndeavourOS)</span
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Contact Section -->
+      <section id="contact" class="py-12 lg:py-16 px-4 lg:px-8">
+        <div class="container mx-auto">
+          <h2
+            class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 lg:mb-16 animate-fade-in"
           >
             Get in <span class="text-primary">Touch</span>
           </h2>
