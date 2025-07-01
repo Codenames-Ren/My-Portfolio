@@ -96,13 +96,12 @@ To run this Portfolio:
 
 ```
 My-Portfolio/
-├── index.html          # Main HTML file
+├── index.html          # Styling with Tailwind
 ├── script/
 │   └── index.js        # JavaScript functionality
 ├── image/
-│   └── me2.jpg         # Profile image
-├── README.md           # Project documentation
-└── assets/             # Additional assets (if any)
+│   └── photo.jpg       # Profile image
+├── README.md
 ```
 
 ## 🌟 Key Features Implementation
