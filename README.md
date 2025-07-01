@@ -146,4 +146,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **If you found this portfolio helpful or inspiring, please consider giving it a star!**
 
-_"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."_ - Robin Sharma
+_"People don’t care how much you know until they know how much you care."_ - <b>Theodore Roosevelt </b>
