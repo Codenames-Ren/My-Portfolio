@@ -44,18 +44,6 @@ Welcome to my personal portfolio website! I'm **Bayu Sukma**, a passionate Junio
 - **Postman** - API documentation and testing
 - **Arch Linux (EndeavourOS)** - Primary development environment
 
-## 🎨 Features
-
-This portfolio website includes:
-
-- ✨ **Responsive Design** - Optimized for all device sizes
-- 🎭 **Interactive Animations** - Smooth transitions and hover effects
-- ⚡ **Dynamic Typing Animation** - Showcasing different roles
-- 📱 **Mobile-First Approach** - Perfect mobile experience
-- 🌙 **Modern Dark Theme** - Professional aesthetic
-- 📧 **Contact Integration** - Multiple ways to get in touch
-- 🖼️ **Project Showcase** - Detailed project presentations
-
 ## 💼 Featured Projects
 
 ### 1. ☕ Kedai Kopi Senja
