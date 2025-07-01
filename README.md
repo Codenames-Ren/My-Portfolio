@@ -66,14 +66,6 @@ Creative Python project that converts videos into ASCII art and plays them in th
 
 Local network billing system for WiFi business with Mikrotik integration.
 
-## 🎯 What Makes This Portfolio Special
-
-- **Student-Friendly**: Designed to reflect genuine learning progress
-- **Professional Quality**: Industry-standard coding practices
-- **Performance Optimized**: Fast loading and smooth interactions
-- **Accessible**: Following web accessibility guidelines
-- **SEO Friendly**: Optimized for search engines
-
 ## 🚀 Getting Started
 
 To run this portfolio locally:
