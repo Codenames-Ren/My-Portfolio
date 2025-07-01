@@ -68,7 +68,9 @@ Local network billing system for WiFi business with Mikrotik integration.
 
 ## 🚀 Getting Started
 
-To run this portfolio locally:
+Feel free to use this Portfolio Website for your personal Portfolio~
+
+To run this Portfolio:
 
 1. **Clone the repository**
 
